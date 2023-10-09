@@ -1,0 +1,1 @@
+This is the feature file created in AWS ec2 instance
